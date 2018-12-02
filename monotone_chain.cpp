@@ -41,6 +41,6 @@ int main(){
 	}
 	p = convex_hull(t);
 	for(auto a:p){
-		printf("x = %d - y = %d\n", a.x, a.y);
+		printf("x = %d - y = %d\n", a.x, a.y);v
 	}
 }
